@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1-0d316dc47a5aa78547192263c96b5c4217039815.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-c3193fab864eb73e136180cf66dd460dc03cb4ec.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2-f184a53de7d80aaca9390a197768c40c1f36944d.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\exploded-aar\SimpleReader-second\PullToRefresh\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="90a3987ec906814b36f31aef996b8d2db7b00959">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\classes-96cf6e0f67dec631741970f6d4bc6e86b3e8c53c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-5358c9a28b57784c546865bfb35d10bf019f059b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7b50652ad358560ea4b857828bb6dcde8f46e337">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2-c996ccfeb2d94bba7fce722c2efda400f919d4a4.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1-c1d2b164e3172daa76f456c81cfb504e341b0b9c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\SpeechApi.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d5cf23bf4a7da74f0311a207c93b110591ed1cdf">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\SpeechApi-25464635d368c9b714ba4024f03e6c82a2195078.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\SocialSDK_WeiXin.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin-7d0a5c2b8815572cb11bf4073d6e28107921711a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="93b0c54ec63bcb8e4507cc5bbeb8cce2aa2a64be">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\umeng_social_sdk-02a92286e2a31136f01a8207f446f98cb69482da.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\libs\umeng-sdk-update_v2.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="ab0f539c836ffca770054adba6f20f25422c57f6">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\umeng-sdk-update_v2.4.1-cd9cf4470f19d0ce8c58a3518f05fa5fc603a934.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\classes-395ada8499ac5ff25c81e1f42ee03f6697dca803.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="E:\AndroidStudioProjects\SimpleReader-second\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-abcc354e5dc859f25ed4a37a77133cdd37d0f15e.jar" />
+    </item>
+
+</items>
